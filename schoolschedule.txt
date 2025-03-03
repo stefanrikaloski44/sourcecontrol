@@ -1,8 +1,8 @@
 Monday:
 8:00 AM - 9:00 AM | Mathematics
-9:15 AM - 10:15 AM | English Literature
+9:15 AM - 10:15 AM | History
 10:30 AM - 11:30 AM | Chemistry
-11:45 AM - 12:45 PM | History
+11:45 AM - 12:45 PM | Geography
 1:30 PM - 2:30 PM | Physical Education
 
 Tuesday:
@@ -13,22 +13,22 @@ Tuesday:
 1:30 PM - 2:30 PM | Art
 
 Wednesday:
-8:00 AM - 9:00 AM | Biology
+8:00 AM - 9:00 AM | Geography
 9:15 AM - 10:15 AM | Mathematics
 10:30 AM - 11:30 AM | English Literature
 11:45 AM - 12:45 PM | Chemistry
 1:30 PM - 2:30 PM | Music
 
 Thursday:
-8:00 AM - 9:00 AM | History
-9:15 AM - 10:15 AM | Physics
+8:00 AM - 9:00 AM | English Literature
+9:15 AM - 10:15 AM | Biology
 10:30 AM - 11:30 AM | Computer Science
-11:45 AM - 12:45 PM | Economics
+11:45 AM - 12:45 PM | Art
 1:30 PM - 2:30 PM | Physical Education
 
 Friday:
 8:00 AM - 9:00 AM | Mathematics
 9:15 AM - 10:15 AM | English Literature
 10:30 AM - 11:30 AM | Biology
-11:45 AM - 12:45 PM | Geography
-1:30 PM - 2:30 PM | Art
+11:45 AM - 12:45 PM | Biology
+1:30 PM - 2:30 PM | Economics
