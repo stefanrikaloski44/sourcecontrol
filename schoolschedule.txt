@@ -23,11 +23,11 @@ Thursday:
 8:00 AM - 9:00 AM | English Literature
 9:15 AM - 10:15 AM | Biology
 10:30 AM - 11:30 AM | Computer Science
-11:45 AM - 12:45 PM | Art
+11:45 AM - 12:45 PM | Mathematics
 1:30 PM - 2:30 PM | Physical Education
 
 Friday:
-8:00 AM - 9:00 AM | Mathematics
+8:00 AM - 9:00 AM | Art
 9:15 AM - 10:15 AM | English Literature
 10:30 AM - 11:30 AM | Biology
 11:45 AM - 12:45 PM | Biology
